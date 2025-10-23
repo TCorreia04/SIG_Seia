@@ -1,0 +1,4661 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "ALVOCO DA SERRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 68965.685,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091201",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 713.572,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SABUGUEIRO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 94278.259,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091210",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANDOMIL",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 85226.727,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091212",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 90538.562,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 119073.645,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 19669.539,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TRAVANCINHA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 53141.495,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091224",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VALEZIM",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 36027.047,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091225",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 89492.987,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TOURAIS E LAJES",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 233375.358,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091235",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 127182.103,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PARANHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 191175.337,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091208",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SABUGUEIRO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 74069.4,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091210",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 87333.807,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 110155.681,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 87552.768,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SANTA MARINHA SAO MARTINHO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 165351.615,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091232",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 122708.534,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SABUGUEIRO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 132913.664,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091210",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 155156.583,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 176689.512,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SAZES DA BEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 37548.384,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091219",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TRAVANCINHA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 58174.198,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091224",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VALEZIM",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 38010.562,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091225",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VILA COVA A COELHEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 47027.95,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091228",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 214454.735,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SAMEICE E SANTA EULALIA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 74181.91,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091231",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SANTA MARINHA SAO MARTINHO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 183746.953,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091232",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1243521.345,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TOURAIS E LAJES",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 269741.686,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091235",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "GIRABOLHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 38835.254,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091205",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 52069.744,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 990.478,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SABUGUEIRO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 138140.704,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091210",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SAZES DA BEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 39813.456,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091219",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 23211.391,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TRAVANCINHA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 60437.485,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091224",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 112646.991,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 1920855.081,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "ALVOCO DA SERRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 76708.835,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091201",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PARANHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 192874.643,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091208",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 59859.02,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SAZES DA BEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 34576.873,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091219",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 8585.166,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TRAVANCINHA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 53109.78,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091224",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 98334.043,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 207452.448,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1212108.853,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 147951.239,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 135740.032,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SABUGUEIRO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 82007.671,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091210",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANDOMIL",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 109418.885,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091212",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 155463.062,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 79291.167,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 23033.478,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VALEZIM",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 37282.832,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091225",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 222649.025,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TORROZELO E FOLHADOSA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 103028.392,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091234",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 199720.845,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SABUGUEIRO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 142288.846,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091210",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANDOMIL",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 106532.86,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091212",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 207767.671,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 9399.194,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TRAVANCINHA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 70251.038,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091224",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VALEZIM",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 44435.379,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091225",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 246722.872,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF VIDE E CABECA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 118168.321,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091236",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "ALVOCO DA SERRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 79697.035,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091201",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "GIRABOLHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 36819.292,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091205",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 50895.803,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PARANHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 205520.612,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091208",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 100934.608,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 106264.948,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TORROZELO E FOLHADOSA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 106321.048,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091234",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "ALVOCO DA SERRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 84281.939,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091201",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 132353.338,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 161244.467,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 98896.3,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 65235.008,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 180479.26,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 8846.006,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VILA COVA A COELHEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 49272.97,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091228",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 221021.78,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TORROZELO E FOLHADOSA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 114229.08,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091234",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TOURAIS E LAJES",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 282689.319,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091235",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "GIRABOLHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 35728.987,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091205",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 36469.702,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANDOMIL",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 89139.939,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091212",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 138778.104,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 154197.554,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SAMEICE E SANTA EULALIA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 73455.396,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091231",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 1558570.973,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TORROZELO E FOLHADOSA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 101204.526,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091234",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "ALVOCO DA SERRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 89591.549,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091201",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "GIRABOLHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 44492.047,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091205",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 83749.485,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 142413.95,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 115904.319,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 74001.355,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SAZES DA BEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 39966.188,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091219",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 121324.174,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SAMEICE E SANTA EULALIA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 87268.408,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091231",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SANTA MARINHA SAO MARTINHO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 212082.401,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091232",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 2203240.743,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TOURAIS E LAJES",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 316959.011,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091235",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 142267.528,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PARANHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 188478.216,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091208",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 211407.165,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SAMEICE E SANTA EULALIA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 71129.972,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091231",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 1436608.681,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "ALVOCO DA SERRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 65972.702,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091201",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "GIRABOLHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 36865.845,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091205",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANDOMIL",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 90726.673,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091212",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 141785.291,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 10356.291,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TRAVANCINHA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 56150.072,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091224",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VILA COVA A COELHEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 43314.352,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091228",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 205372.2,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 762.277,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VILA COVA A COELHEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 48400.539,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091228",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF CARRAGOZELA VARZEA MERUGE",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 95543.84,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091230",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TOURAIS E LAJES",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 258433.896,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091235",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "GIRABOLHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 34975.38,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091205",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 23737.105,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 110109.959,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 142355.177,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 67931.525,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SAZES DA BEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 33085.05,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091219",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 9361.641,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VILA COVA A COELHEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 40402.299,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091228",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SANTA MARINHA SAO MARTINHO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 163517.261,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091232",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1242035.916,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TORROZELO E FOLHADOSA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 93754.287,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091234",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "05",
+        "data": "2025-05",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF VIDE E CABECA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 91347.697,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091236",
+        "mes_int": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 684.561,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 118854.562,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 81199.641,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SAZES DA BEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 31514.634,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091219",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 18457.385,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VALEZIM",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 33659.493,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091225",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SAMEICE E SANTA EULALIA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 73679.497,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091231",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1190107.717,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 1365678.201,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TORROZELO E FOLHADOSA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 92804.335,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091234",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TOURAIS E LAJES",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 229228.448,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091235",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "06",
+        "data": "2025-06",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF VIDE E CABECA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 91713.402,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091236",
+        "mes_int": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 174616.315,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1046.683,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANDOMIL",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 91631.3,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091212",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTIAGO",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 60089.251,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091216",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 21287.012,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 11262.735,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 1860454.087,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "02",
+        "data": "2025-02",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF VIDE E CABECA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 100391.939,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091236",
+        "mes_int": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 185915.843,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PARANHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 214514.694,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091208",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANDOMIL",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 96543.795,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091212",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VALEZIM",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 41805.775,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091225",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SAMEICE E SANTA EULALIA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 78906.181,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091231",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SANTA MARINHA SAO MARTINHO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 194918.301,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091232",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1324163.753,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "03",
+        "data": "2025-03",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF VIDE E CABECA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 103676.299,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091236",
+        "mes_int": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "LORIGA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 161427.664,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091207",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 112462.674,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 770.397,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SABUGUEIRO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 111277.54,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091210",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 87864.371,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 21117.394,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VALEZIM",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 38355.986,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091225",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VILA COVA A COELHEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 41774.526,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091228",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SANTA MARINHA SAO MARTINHO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 171108.275,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091232",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TOURAIS E LAJES",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 244237.485,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091235",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "04",
+        "data": "2025-04",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF VIDE E CABECA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 96625.015,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091236",
+        "mes_int": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "ALVOCO DA SERRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 75744.28,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091201",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "GIRABOLHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 43815.495,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091205",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PARANHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 219428.318,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091208",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 124019.207,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 93596.84,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SAZES DA BEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 37107.086,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091219",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 13534.678,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TRAVANCINHA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 65066.943,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091224",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SAMEICE E SANTA EULALIA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 80891.337,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091231",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SANTA MARINHA SAO MARTINHO",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 188698.205,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091232",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1277870.315,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 1485181.952,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "07",
+        "data": "2025-07",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF VIDE E CABECA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 111893.56,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091236",
+        "mes_int": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PARANHOS",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 252719.385,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091208",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "PINHANCOS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1196.709,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091209",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "SANTA COMBA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 186610.835,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091213",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "TEIXEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 26523.967,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091221",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "VILA COVA A COELHEIRA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 52269.545,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091228",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF SEIA S ROMAO LAPA DINHEIROS",
+        "nivel_de_tensao": "Muito Alta, Alta e Média Tensões",
+        "energia_ativa_kwh": 1366294.615,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091233",
+        "mes_int": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.951,
+          40.434
+        ]
+      },
+      "properties": {
+        "ano": "2025",
+        "mes": "01",
+        "data": "2025-01",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "UF TORROZELO E FOLHADOSA",
+        "nivel_de_tensao": "Baixa Tensão",
+        "energia_ativa_kwh": 121869.756,
+        "coddistrito": "09",
+        "coddistritoconcelho": "0912",
+        "coddistritoconcelhofreguesia": "091234",
+        "mes_int": 1
+      }
+    }
+  ]
+}
