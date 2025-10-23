@@ -1,0 +1,33 @@
+name: Atualiza GeoJSON Meteo Seia
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"  # a cada 15 minutos
+  workflow_dispatch:  # permite execução manual
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: pip install requests geojson
+
+      - name: Executar script Python
+        run: python atualiza_meteo.py
+
+      - name: Commit & push GeoJSON atualizado
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add seia_aerodromo_observations.geojson
+          git commit -m "Atualização automática do GeoJSON"
+          git push
